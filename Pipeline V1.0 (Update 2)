@@ -1,5 +1,6 @@
 Input 1 = RMH200SolidBRCA-Blend-T_S95_R1_001.fastq.gz
 Input 2 = RMH200SolidBRCA-Blend-T_S95_R2_001.fastq.gz
+Input 3 = hg19 reference genome
 FastQ Quality Metrics = FastQC (Galaxy Version 0.73+galaxy0)
 Alignment with reference genome = Map with BWA (Galaxy Version 0.7.17.5)
 Alignment Metrics = Collect Alignment Summary Metrics (Galaxy Version 2.18.2.1)
